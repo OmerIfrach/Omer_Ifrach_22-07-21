@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Omer_Ifrach_22-07-21/static/css/main.8d261cfb.chunk.css",
+    "main.js": "/Omer_Ifrach_22-07-21/static/js/main.082a1d2e.chunk.js",
+    "main.js.map": "/Omer_Ifrach_22-07-21/static/js/main.082a1d2e.chunk.js.map",
+    "runtime-main.js": "/Omer_Ifrach_22-07-21/static/js/runtime-main.9172d3ee.js",
+    "runtime-main.js.map": "/Omer_Ifrach_22-07-21/static/js/runtime-main.9172d3ee.js.map",
+    "static/js/2.15a017cf.chunk.js": "/Omer_Ifrach_22-07-21/static/js/2.15a017cf.chunk.js",
+    "static/js/2.15a017cf.chunk.js.map": "/Omer_Ifrach_22-07-21/static/js/2.15a017cf.chunk.js.map",
+    "static/js/3.3001423c.chunk.js": "/Omer_Ifrach_22-07-21/static/js/3.3001423c.chunk.js",
+    "static/js/3.3001423c.chunk.js.map": "/Omer_Ifrach_22-07-21/static/js/3.3001423c.chunk.js.map",
+    "index.html": "/Omer_Ifrach_22-07-21/index.html",
+    "static/css/main.8d261cfb.chunk.css.map": "/Omer_Ifrach_22-07-21/static/css/main.8d261cfb.chunk.css.map",
+    "static/js/2.15a017cf.chunk.js.LICENSE.txt": "/Omer_Ifrach_22-07-21/static/js/2.15a017cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9172d3ee.js",
+    "static/js/2.15a017cf.chunk.js",
+    "static/css/main.8d261cfb.chunk.css",
+    "static/js/main.082a1d2e.chunk.js"
+  ]
+}
