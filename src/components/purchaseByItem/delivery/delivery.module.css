@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1%;
+    width: 90%;
+    align-self: center;
+}
+
+.addItem{
+    width: 30%;
+    align-self: flex-end;
+}
+.tableContainer{
+    margin-top: 2%;
+}
