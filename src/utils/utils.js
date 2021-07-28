@@ -4,7 +4,7 @@ export const validateName = (str) => {
   if (str.length > 0 && str.trim() === "") {
     valid = false;
   }
-
+ 
   return valid;
 };
 
