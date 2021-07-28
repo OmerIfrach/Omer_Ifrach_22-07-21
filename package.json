@@ -2,7 +2,7 @@
   "name": "shopping_tracking_list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://omerifrach.github.io/Omer_Ifrach_22-07-21/",
+  "homepage": "https://omer-shopping-tracking-list.herokuapp.com/",
   "dependencies": {
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.11.2",
