@@ -26,11 +26,10 @@ export const fetchCurrency = () => {
   return (dispatch) => {
     axios
       .get(
-        "http://api.exchangeratesapi.io/v1/latest?access_key=a7fa6f92749688036f91e45c20e4bf94&symbols=USD,ILS"
+        "https://free.currconv.com/api/v7/convert?q=USD_ILS&compact=ultra&apiKey=ec40cdf7e1e406ce7592"
       )
       .then((res) => {
-        const ratio = res.data.rates.ILS / res.data.rates.USD;
-        dispatch(fetchCurrencySuccess(ratio));
+        dispatch(fetchCurrencySuccess(res.data.USD_ILS));
       })
       .catch(() => {
         dispatch(fetchCurrencyError());
